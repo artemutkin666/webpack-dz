@@ -1,3 +1,6 @@
+
+console.log('app worked')
+
 import Game, { 
   GameSavingData, 
   readGameSaving as loadGame, 
